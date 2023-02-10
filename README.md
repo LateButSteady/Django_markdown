@@ -18,11 +18,11 @@ Example of Django markdown page
     pip install -r requirements.txt
     ```
 
-5. Open the web application locally.
+5. Run the server locally.
     ```
     python manage.py runserver
     ```
-   You will see the log like below if web is successfully opened.
+   You will see the log like below if the server is successfully opened.
     ```
     System check identified no issues (0 silenced).
     February 07, 2023 - 03:10:08

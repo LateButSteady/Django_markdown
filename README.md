@@ -43,7 +43,7 @@
 9. Login with the info
     - ID: admin
     - Password: admin
-    - * You can make your own superuser with the following command.
+    - Note that you can make your own superuser with the following command.
     
     ```
     python manage.py makesuperuser

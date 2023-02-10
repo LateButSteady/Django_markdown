@@ -4,23 +4,23 @@ Example of Django markdown page
 # Post in markdown in your Django web application #
 
 ## Tutorial ##
-1. Pull the repository<br>
+1. Pull the repository
     ```
     git clone https://github.com/LateButSteady/Django_markdown
     ```
 2. Move to the directory
 
-3. Activate virtualenv you are using<br>
+3. Activate virtualenv
     - Note that repository used python 3.9 (Later version than 3.6 is recommended)
 
-4. Install packages using requirements.txt<br>
+4. Install packages using requirements.txt
     ```
     pip install -r requirements.txt
     ```
 
 5. Open the web application locally.
     ```
-    python manage.py runserver<br>
+    python manage.py runserver
     ```
    You will see the log like below if web is successfully opened.
     ```
@@ -43,7 +43,7 @@ Example of Django markdown page
     ```
     localhost:8000/admin
     ```
-9. Login with the info<br>
+9. Login with the info
     - ID: admin
     - Password: admin
     - * You can make your own superuser with the following command.

@@ -1,7 +1,4 @@
-# Django_markdown
-Example of Django markdown page
-
-# Post in markdown in your Django web application #
+# Post markdown pages in your Django web application #
 
 ## Tutorial ##
 1. Pull the repository

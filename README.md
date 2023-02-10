@@ -11,7 +11,7 @@ Example of Django markdown page
 2. Move to the directory
 
 3. Activate virtualenv you are using<br>
-    - Note that repository used python 3.9 (Later than 3.6 is recommended)
+    - Note that repository used python 3.9 (Later version than 3.6 is recommended)
 
 4. Install packages using requirements.txt<br>
     ```
@@ -31,14 +31,14 @@ Example of Django markdown page
     Quit the server with CTRL-BREAK.
     ```
       
-6. Enter the address below in browser.
+6. Enter the url below in browser to open the django page
     ```
     localhost:8000
     ```
    You will see a button "Markdown page". Click it.
    
 7. There are two posts. Each post will redirect and show the body.
-   <br>
+
 8. You can add posts in the Django admin page
     ```
     localhost:8000/admin
@@ -46,12 +46,16 @@ Example of Django markdown page
 9. Login with the info<br>
     - ID: admin
     - Password: admin
-    - Note that you can make your own superuser with the following command.
+    - * You can make your own superuser with the following command.
     
     ```
     python manage.py makesuperuser
     ```
-   <br>
+
 10. Click "Posts".
 
-11. You can modify, add, or delete the posts as you want.
+11. You can modify, add, or delete the posts as you want (in markdown format).
+
+12. To check the posts, go back to the django page and click "markdown" button.
+
+13. Click the post you wrote.
